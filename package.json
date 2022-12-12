@@ -20,7 +20,7 @@
     "material-design-icons": "^3.0.1",
     "material-ui-icons": "^1.0.0-beta.36",
     "mobx": "^6.0.4",
-    "npm": "^6.14.9",
+    "npm": "^9.2.0",
     "react": "^16.14.0",
     "react-color": "^2.19.3",
     "react-dom": "^16.14.0",
